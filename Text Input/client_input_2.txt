@@ -1,0 +1,10 @@
+Set Course 27
+Engineering Cloud Computing
+Get Course
+set Name Raghav
+set Food 6
+Apples
+get Food
+not get File
+get Lake No
+set Country 2 USA

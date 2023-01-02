@@ -1,0 +1,18 @@
+{
+  "Hotel": {
+    "Bits": 5,
+    "Data": "Wyatt"
+  },
+  "Destination": {
+    "Bits": 7,
+    "Data": "Chicago"
+  },
+  "Name": {
+    "Bits": 6,
+    "Data": "Raghav"
+  },
+  "Course": {
+    "Bits": 27,
+    "Data": "Engineering Cloud Computing"
+  }
+}
