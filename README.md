@@ -6,14 +6,14 @@ Memcached-Lite
 
 In this project, the objective is to design a key-value store which is implemented by creating a server those stores and retrieves data from multiple clients. The key-value store is mimicking the Memcached client protocol.
 
-## Functionalities:
+## Functionalities: 
 
 * **TCP- socket server:** Server listens to all incoming clients and stores the keys and values
 * **Set:** Store a key and value by sending the data from the client to server
 * **Get:** Retrieve key and value by sending the request from client to server
 * **Concurrency:** Server must be concurrent and accept multiple client requests
 
-## Design:
+## Design: 
 
 ![Design](https://user-images.githubusercontent.com/96961381/210283611-703993f6-8101-4ae7-af6c-ee579b1ca193.jpeg)
 
@@ -161,3 +161,5 @@ In addition to the text input where the input is got through the text, I have al
 Multiple clients can be connected to the servers and any values stored through one client can be accessed with another client as shown below:
 
 ![UseCase](https://user-images.githubusercontent.com/96961381/210282602-0ed2da00-c5d8-4f3a-a682-93b9c52e462d.JPG)
+
+The user inputs the key and value as described in the text input.
