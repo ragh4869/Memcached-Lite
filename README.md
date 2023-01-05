@@ -13,6 +13,11 @@ In this project, the objective is to design a key-value store which is implement
 * **Get:** Retrieve key and value by sending the request from client to server
 * **Concurrency:** Server must be concurrent and accept multiple client requests
 
+## How to run? :
+
+* Open a command prompt window and run the user_input_server.py
+* Open an another command prompt window and run the user_input_client.py
+
 ## Design: 
 
 ![Design](https://user-images.githubusercontent.com/96961381/210283611-703993f6-8101-4ae7-af6c-ee579b1ca193.jpeg)
